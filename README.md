@@ -83,4 +83,3 @@
 
 </div>
 
-resume-tri-nguyen.pdf
