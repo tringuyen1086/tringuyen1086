@@ -5,7 +5,18 @@
 
 <h2 align="center"> Technologies and Tools </h2>
 <br>
+
 <!-- https://simpleicons.org/ -->
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongo,express,react,nodejs,jquery,typescript,mysql,bootstrap,docker,vscode,github)](https://skillicons.dev)
+&nbsp;
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongo,express,react,nodejs,jquery,typescript,mysql,bootstrap,tailwind,docker,vscode,github,cs,cpp,discord)](https://skillicons.dev)
+&nbsp;
+-->
+
+<!--
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -40,6 +51,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+
+-->
 
 <br>
 
