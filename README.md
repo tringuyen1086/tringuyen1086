@@ -77,7 +77,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://tringuyendeveloper.com/" target="blank">
-    <img width="90" height="90" src="[https://img.icons8.com/stickers/100/000000/github.png](https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/external-website-job-amp-resume-xnimrodx-lineal-color-xnimrodx-2.png)" alt="tringuyendev-professional-portfolio" />
+    <img width="90" height="90" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/external-website-job-amp-resume-xnimrodx-lineal-color-xnimrodx-2.png" alt="tringuyendev-professional-portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tri-nguyen-1086" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tringuyendev-linkedin" />
